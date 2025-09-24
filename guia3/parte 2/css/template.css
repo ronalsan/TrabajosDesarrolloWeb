@@ -1,9 +1,9 @@
 .app-card {
-    border: 1px solid #ddd ;
+    border: 1px solid #ddd;
     border-radius: 8px;
     padding: 20px;
     margin: 10px;
-    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0)
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .app-card h2{
@@ -14,4 +14,17 @@
 
 .app-card p {
     color: #555;
+}
+
+.app-card img {
+    width: 400px;
+    height:400px;
+    border-radius: 20%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.price {
+    color: #0eea3e;
+    font-weight: bold;
 }
