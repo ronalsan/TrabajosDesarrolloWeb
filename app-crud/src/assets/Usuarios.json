@@ -1,5 +1,3 @@
 [
-    {"user": "admin", "pass": "1234"},
-    {"user":"jerson", "pass":"5678"},
-    {"user":"invitado","pass":"9999"}
+    {"user": "admin", "pass": "123456"}
 ]
